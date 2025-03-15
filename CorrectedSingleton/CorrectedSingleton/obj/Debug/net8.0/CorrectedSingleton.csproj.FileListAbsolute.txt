@@ -1,0 +1,14 @@
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/bin/Debug/net8.0/CorrectedSingleton
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/bin/Debug/net8.0/CorrectedSingleton.deps.json
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/bin/Debug/net8.0/CorrectedSingleton.runtimeconfig.json
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/bin/Debug/net8.0/CorrectedSingleton.dll
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/bin/Debug/net8.0/CorrectedSingleton.pdb
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/obj/Debug/net8.0/CorrectedSingleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/obj/Debug/net8.0/CorrectedSingleton.AssemblyInfoInputs.cache
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/obj/Debug/net8.0/CorrectedSingleton.AssemblyInfo.cs
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/obj/Debug/net8.0/CorrectedSingleton.csproj.CoreCompileInputs.cache
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/obj/Debug/net8.0/CorrectedSingleton.dll
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/obj/Debug/net8.0/refint/CorrectedSingleton.dll
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/obj/Debug/net8.0/CorrectedSingleton.pdb
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/obj/Debug/net8.0/CorrectedSingleton.genruntimeconfig.cache
+/Users/mikey/VS Code/CorrectedSingleton/CorrectedSingleton/obj/Debug/net8.0/ref/CorrectedSingleton.dll
